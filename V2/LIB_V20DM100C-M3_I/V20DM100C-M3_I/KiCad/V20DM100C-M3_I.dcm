@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP V20DM100C-M3_I
-D Schottky Diodes & Rectifiers 100V 20A SMPD(TO-263AC)
-K
-F http://www.vishay.com/docs/87575/v20dm100c.pdf
-$ENDCMP
-#
-#End Doc Library

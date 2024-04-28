@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP IRF9530NSTRLPBF
-D MOSFET MOSFT PCh -100V -14A 200mOhm 38.7nC
-K
-F https://www.infineon.com/dgdl/irf9530nspbf.pdf?fileId=5546d462533600a401535611c2011dc3
-$ENDCMP
-#
-#End Doc Library

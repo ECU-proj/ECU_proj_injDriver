@@ -1,5 +1,7 @@
 # ECU Project
 
+<img src="https://img.shields.io/badge/Status-Alpha-red" />
+
 The injector driver is an integral part of a broader project aimed at creating a fully customizable Engine Control Unit (ECU). The project’s objective is to provide a versatile tool capable of handling everything from straightforward retrofits to professional scenarios where writing custom software tailored to specific applications is essential. Both the hardware and software components are entirely open source and compatible with professional interfaces, representing the cutting edge in the field of engine and vehicle control
 
 

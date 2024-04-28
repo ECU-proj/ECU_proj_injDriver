@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8262DDWR
+D Motor / Motion / Ignition Controllers & Drivers 70-V single or dual H-bridge motor driver with integrated current sense and regulation
+K
+F https://www.arrow.com/en/products/drv8262ddwr/texas-instruments?region=nac
+$ENDCMP
+#
+#End Doc Library

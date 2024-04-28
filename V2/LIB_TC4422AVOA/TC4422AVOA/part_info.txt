@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=TC4422AVOA
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=4.1
+Released=2017-01-11 17:13:05
+Downloaded=2024-04-26 15:23:49
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'V20DM100C_M3_I'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "V20DM100C-M3/I" (!) = "", "V40DL45BPM3I", "Other", "78-V20DM100C-M3/I", "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/V20DM100C-M3-I?qs=F5EMLAvA7IDlhwdxAC8a8w%3D%3D", "Schottky Diodes & Rectifiers 100V 20A SMPD(TO-263AC)", "http://www.vishay.com/docs/87575/v20dm100c.pdf", "1 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8262DDWR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=45
+Version=1.1
+Released=2023-08-21 05:06:14
+Downloaded=2024-04-23 20:33:14
+3D=Y

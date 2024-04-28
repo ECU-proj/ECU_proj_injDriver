@@ -1,0 +1,149 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "IRF9530NSTRLPBF"
+   (description "MOSFET MOSFT PCh -100V -14A 200mOhm 38.7nC")
+   (family "TRX")
+   (package "IRF9530NSTRLPBF")
+   (attribute "Datasheet Link" "https://www.infineon.com/dgdl/irf9530nspbf.pdf?fileId=5546d462533600a401535611c2011dc3")
+   (attribute "Geometry.Height" "5.084mm")
+   (attribute "Mouser Part Number" "942-IRF9530NSTRLPBF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRF9530NSTRLPBF?qs=9%252BKlkBgLFf007N4dr9AaRw%3D%3D")
+   (attribute "Manufacturer_Name" "Infineon")
+   (attribute "Manufacturer_Part_Number" "IRF9530NSTRLPBF")
+   (gate
+    (symbol "IRF9530NSTRLPBF")
+    (pin "G" 1 PS)
+    (pin "D" 2 PS)
+    (pin "S" 3 PS)
+   )
+  )
+  (symbol "IRF9530NSTRLPBF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (circle (pt 400 100) (pt 100 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 300 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 200) (pt 300 300))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0) (pt 200 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 230 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 200) (pt 230 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 220) (pt 230 180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 -20) (pt 230 20))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 80) (pt 230 120))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 100) (pt 260 120) (pt 260 80) (pt 300 100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 80 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 300 400) (rot 90) (mir X) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 300 -200) (rot 90) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "IRF9530NSTRLPBF"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.08 6.11)
+      (pt 5.08 6.11)
+      (pt 5.08 -2.905)
+      (pt -5.08 -2.905)
+      (pt -5.08 6.11))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.45 8.79)
+      (pt 6.45 8.79)
+      (pt 6.45 -9.41)
+      (pt -6.45 -9.41)
+      (pt -6.45 8.79))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.08 -2.2)
+      (pt -5.08 -2.905)
+      (pt 5.08 -2.905)
+      (pt 5.08 -2.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.54 -8.8)
+      (arc (pt -2.540 -8.800) (pt -2.590 -8.900) (pt -2.490 -8.800) (start 180.0) (sweep 90.0))
+      (pt -2.54 -8.9)
+      (arc (pt -2.540 -8.900) (pt -2.590 -8.900) (pt -2.490 -8.800) (start 180.0) (sweep -90.0))
+      (pt -2.54 -8.8))))
+   (leg 1 (pt -2.540 -6.110) (padstack 0))
+   (leg 2 (pt 0.000 3.040) (padstack 2))
+   (leg 3 (pt 2.540 -6.110) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.350 4.600 0 0 90.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 9.500 10.900 0 0 0.000))
+   )
+  )
+ )
+)

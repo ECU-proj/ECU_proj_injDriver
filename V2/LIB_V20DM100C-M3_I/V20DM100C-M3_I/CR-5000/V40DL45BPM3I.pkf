@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "V40DL45BPM3I"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "V40DL45BPM3I")
+        (spec "default")
+    )
+)

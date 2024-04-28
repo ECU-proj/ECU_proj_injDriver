@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IRF9530NSTRLPBF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-17-08:15:55)
+    (mountForm default
+        (footprintRef "IRF9530NSTRLPBF")
+        (spec "System")
+    )
+)

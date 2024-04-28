@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8262DDWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8262DDWR" (!) = "", "SOP64P810X120-45N", "Small Outline Packages", "595-DRV8262DDWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8262DDWR?qs=1Kr7Jg1SGW8MeFim1i6uiA%3D%3D", "Motor / Motion / Ignition Controllers & Drivers 70-V single or dual H-bridge motor driver with integrated current sense and regulation", "https://www.arrow.com/en/products/drv8262ddwr/texas-instruments?region=nac", "1.2 mm"
+END_PART
+
+END.

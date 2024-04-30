@@ -11825,7 +11825,7 @@
 			)
 		)
 		(property "Value" "100nF 100V"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "83ba49e1-6cb3-47a3-acaa-181364b04f44")
@@ -11978,7 +11978,7 @@
 			(uuid "2519d881-c082-4231-b0c2-3744cf6cb9c7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "a881436f-1e14-422c-8b50-cac7d41d9b6b")
 			(effects
